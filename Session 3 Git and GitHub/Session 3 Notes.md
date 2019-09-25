@@ -2,7 +2,7 @@
 
 ## Session 3. Version Control and Github
 
-### What is version control
+### What is version control  
 
 Version control is a system to systematically record changes to files in a project, in such a way that it is always possible to recall specific versions of the files at any point in the life of the project. 
 There are different reasons why version control is a valuable tool in reproducible research.
